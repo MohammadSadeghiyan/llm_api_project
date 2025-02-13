@@ -32,7 +32,7 @@ This project demonstrates how to integrate and utilize the DeepSeek LLM API for 
 ### Prerequisites
 
 - Python 3.x installed
-- Required libraries: `requests`, `dotenv`
+- Required libraries: `requests`, `dotenv` , `flask`
 
 ### Steps
 
